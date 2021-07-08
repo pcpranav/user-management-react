@@ -5,7 +5,7 @@
 
 ## Dependencies
 >>redux
->redux-dev-tools extensions
+>>redux-dev-tools extensions
 >redux-form
 >react-router-dom
 >react-beautiful-dnd
