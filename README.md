@@ -1,14 +1,14 @@
 # User-Management WebApp
 
-# npm start
+## npm start
 >to start the project
 
-# Dependencies
+## Dependencies
 >redux
 >redux-dev-tools extensions
 >redux-form
 >react-router-dom
 >react-beautiful-dnd
 
-# Styling
+## Styling
 >basic bootstrap
