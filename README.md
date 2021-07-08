@@ -4,11 +4,13 @@
 >to start the project
 
 ## Dependencies
-*redux
+```
+redux
 redux-dev-tools extensions
 redux-form
 react-router-dom
 react-beautiful-dnd
+```
 
 ## Styling
 >basic bootstrap
